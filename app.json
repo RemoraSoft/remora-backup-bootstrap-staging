@@ -1,0 +1,10 @@
+{
+  "name": "DB Backups App",
+  "description": "A barebones app to bootstrap a backup process.",
+  "repository": "https://github.com/jasoncross/remora-backup-bootstrap",
+  "buildpacks": [
+    {
+      "url": "https://github.com/ryandotsmith/null-buildpack"
+    }
+  ]
+}
