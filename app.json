@@ -1,7 +1,7 @@
 {
-  "name": "DB Backups App",
+  "name": "Remora Backup Bootstrap App",
   "description": "A barebones app to bootstrap a backup process.",
-  "repository": "https://github.com/jasoncross/remora-backup-bootstrap",
+  "repository": "https://github.com/jasoncross/remora-backup-bootstrap-staging",
   "buildpacks": [
     {
       "url": "https://github.com/ryandotsmith/null-buildpack"
