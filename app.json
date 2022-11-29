@@ -1,7 +1,13 @@
 {
-  "name": "Remora Backup Bootstrap App",
+  "name": "Remora Backup Bootstrap Staging App",
   "description": "A barebones app to bootstrap a backup process.",
   "repository": "https://github.com/jasoncross/remora-backup-bootstrap-staging",
+  "formation": {
+    "remora_backup": {
+      "quantity": 0,
+      "size": "hobby"
+    }
+  },
   "buildpacks": [
     {
       "url": "https://github.com/ryandotsmith/null-buildpack"
